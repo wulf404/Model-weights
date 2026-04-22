@@ -5,18 +5,25 @@
 ----------------------------------------
 **Файлы**
 ----------------------------------------
--best_ckpt.onnx
+- best_ckpt.onnx
 
--quadron.onnx
--quadron_1280.onnx
--quadron_1920.onnx
--quadron_2560.onnx
--quadron_4000.onnx
+- quadron.onnx
 
--quadros.onnx
--quadros_1280.onnx
--quadros_1920.onnx
--quadros_2560.onnx
+- quadron_1280.onnx
+
+- quadron_1920.onnx
+
+- quadron_2560.onnx
+
+- quadron_4000.onnx
+
+- quadros.onnx
+
+- quadros_1280.onnx
+
+- quadros_1920.onnx
+
+- quadros_2560.onnx
 
 ----------------------------------------
 **Как читать название**
